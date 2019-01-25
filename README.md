@@ -1,2 +1,3 @@
 # Haskell
-##This is my Part C git assignment
+-This is my Part C git assignment-
+
